@@ -1,5 +1,1 @@
-db.sqlite3
-geckodriver.log
-__pycache__
-*.pyc
-virtualenv3.6
+static
