@@ -6,3 +6,4 @@ lists/migrations/__pycache__/
 superlists/__pycache__/
 virtualenv3.6/
 static/
+lists/tests/__pycache__/
