@@ -18,7 +18,7 @@
               {{ form.text }}
               {% csrf_token %}
               {% if form.errors %}
-                <div class="form-group has_error">
+                <div class="form-group has-error">
                   <span class="help-block">{{ form.text.errors }}</span>
                 </div>
               {% endif %}
@@ -34,5 +34,13 @@
         </div>
       </div>
     </div>
+
+    <script src="/static/jquery-3.2.1.min.js"></script>
+    <script src="/static/lists.js"></script>
+
+    <script>
+      initialize();
+    </script>
+
   </body>
 </html>
