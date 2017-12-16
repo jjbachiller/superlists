@@ -8,4 +8,3 @@ accounts/migrations/__pycache__/
 superlists/__pycache__/
 virtualenv3.6/
 lists/tests/__pycache__/
-*/__pycache__/
